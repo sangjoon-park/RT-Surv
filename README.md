@@ -1,5 +1,5 @@
 # Official source code for RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records (https://arxiv.org/abs/2408.05074)
-![alt text](./Picture1.png)
+![RT-Surv workflow](./Picture1.png)
 
 ## 1. Environment setting
 ```
